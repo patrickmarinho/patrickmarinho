@@ -21,7 +21,7 @@
 </div>
 
 <br>
-</br>
+<br>
 
 ## Sobre mim:
 
@@ -37,3 +37,10 @@ Estudante em busca de um desafio e de uma nova oportunidade.
 ![Erick's GitHub stats](https://github-readme-stats.vercel.app/api?username=patrickmarinho&show_icons=true&theme=midnight-purple)
 
 </div>
+
+<br>
+<br>
+
+Each battle is an opportunity to grow and become stronger. Don't fear the challenge, embrace it.
+
+<img height="250" src= "https://i.pinimg.com/originals/b1/6c/ab/b16cab79f718da02916e4ce17fb16961.gif">
