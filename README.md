@@ -1,14 +1,15 @@
 <div>
 
-Oi!!! Eu sou o Erick Marinho <img height="45" src="https://emoji.discadia.com/emojis/208230fb-3233-4c45-9c82-cf364c4cef5d.GIF?download&filename=gengar_wink.GIF">
+## Oi!!! Eu sou o Erick Marinho <img height="45" src="https://emoji.discadia.com/emojis/208230fb-3233-4c45-9c82-cf364c4cef5d.GIF?download&filename=gengar_wink.GIF">
+  
 </div>
 
 <br>
 <br>
 
 <div>
-
-Estudando atualmente: 💻
+  
+## Estudando atualmente: 💻
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src= "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -20,15 +21,18 @@ Estudando atualmente: 💻
 </div>
 
 <br>
-<br>
+</br>
+
+## Sobre mim:
+
 Estudante em busca de um desafio e de uma nova oportunidade.
 <br>
 <br>
 
 <div>
 
-GitHub Stats: 
-<img height="30" src="https://emoji.discadia.com/emojis/6691f63e-406f-4c8f-8a67-95be59929dd7.GIF">
+## GitHub Stats: <img height="30" src="https://emoji.discadia.com/emojis/6691f63e-406f-4c8f-8a67-95be59929dd7.GIF">
+  
 
 ![Erick's GitHub stats](https://github-readme-stats.vercel.app/api?username=patrickmarinho&show_icons=true&theme=midnight-purple)
 
