@@ -25,7 +25,7 @@
 
 ## Sobre mim:
 
-Estudante em busca de um novo desafio.
+Estudante sempre em busca de um novo desafio.
 <br>
 <br>
 
