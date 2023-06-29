@@ -25,7 +25,7 @@
 
 ## Sobre mim:
 
-Estudante em busca de um desafio e de uma nova oportunidade.
+Estudante em busca de um novo desafio.
 <br>
 <br>
 
@@ -35,6 +35,7 @@ Estudante em busca de um desafio e de uma nova oportunidade.
   
 
 ![Erick's GitHub stats](https://github-readme-stats.vercel.app/api?username=patrickmarinho&show_icons=true&theme=midnight-purple)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patrickmarinho&size_weight=0.5&count_weight=0.5&theme=midnight-purple)
 
 </div>
 
