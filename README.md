@@ -4,8 +4,8 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&#54337EvCenter=true&color=54337E&width=500&height=70&duration=3000&lines=Hi+There!;+I+am+Erick+Patrick!;" />
   </h1>
   
-  <a href="https://www.linkedin.com/in/erickmarinho2003"> <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
-  <a href="mailto:erick.marinho2003@gmail.com"> <img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a>
+  <a href="https://www.linkedin.com/in/erickmarinho2003"> <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:erick.marinho2003@gmail.com"> <img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
   I am a CS undergraduate and Backend Developer with a strong passion for learning new technologies, solving challenging problems, and developing innovative solutions.
   <img height="30" src="https://emoji.discadia.com/emojis/208230fb-3233-4c45-9c82-cf364c4cef5d.GIF?download&filename=gengar_wink.GIF">
@@ -17,6 +17,7 @@
    **💬 About me:**  
    
   - ♨ Java Enthusiast.
+  - 📚 Currently learning Docker.
   - 🚀 Constantly tackling new challenges.
   - 🤖 I’m passionate about tech and constantly seek to improve my skills.
 
