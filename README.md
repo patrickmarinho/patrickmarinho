@@ -17,7 +17,7 @@
    **💬 Sobre mim:**  
    
   - ♨ Entusiasta Java.
-  - 📚 Atualmente aprendendo Angular, Typescript e Cloud.
+  - 📚 Atualmente aprendendo Angular, Typescript, Go e Cloud.
   - 🚀 Constantemente busco novos desafios.
   - 🤖 Sou apaixonado por tecnologia principalmente voltado ao backend, sempre busco melhorar minhas habilidades.
 
